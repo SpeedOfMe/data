@@ -10,7 +10,7 @@
 | upload      | number    | float       | Upload speed in Megabits per second (Mbps)    | `92.16` |
 | max_download | number   | float       | Maximum download speed during the test (Mbps) | `160.41` |       
 | max_upload  | number    | float       | Maximum upload speed during the test (Mbps)   | `147.64` |
-| latency     | number    | int         | Latnecy (aka. ping) in milliseconds (ms)      | `13` |
+| latency     | number    | int         | Latency (aka. ping) in milliseconds (ms)      | `13` |
 | jitter      | number    | int         | [Jitter](https://speedofme.zendesk.com/hc/en-us/articles/224064067) in milliseconds (ms) | `14` |
 | test_server | string    | varchar(30) | [Test Server](https://speedof.me/howitworks.html#testservers) that was used for the test  | `Dallas 1` | 
 | geo_continent_code | string | varchar(2)  | `AF: Africa, AN: Antarctica, AS: Asia, EU: Europe, NA: North America, OC: Oceania, SA: South America` | `NA` |
